@@ -122,6 +122,7 @@ def _tool_dispatch(name: str, args_json: str) -> str:
     return json.dumps({"error": f"unknown tool {name}"})
 
 def _chat_once(messages: List[Dict[str, Any]]):
+    client = get_openai_client()
     return client.chat.completions.create(
         model=os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
         messages=messages,
