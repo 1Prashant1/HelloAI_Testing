@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: hello-eats-ai-agent
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4o-mini
+      - key: OPENAI_TTS_MODEL
+        value: gpt-4o-mini-tts
+      - key: OPENAI_TTS_VOICE
+        value: alloy
+      - key: PRINTER_SERVER_URL
+        value: https://mc-print3-server.onrender.com/print
+      - key: PRINTER_MAC
+        value: 00:11:62:34:17:d1
