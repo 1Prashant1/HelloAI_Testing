@@ -4,10 +4,20 @@ from openai import OpenAI
 from pathlib import Path
 from utils.json_utils import safe_json_from_text
 from order_state import SessionStore, to_printer_payload
-
+_openai_client = None
 SESSION = SessionStore()
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
+def get_openai_client() -> OpenAI:
+    """Create the OpenAI client on first use (so imports never crash)."""
+    global _openai_client
+    if _openai_client is None:
+        key = os.getenv("OPENAI_API_KEY")
+        if not key:
+            # Raise a clear error at runtime (boot still succeeds so /healthz works)
+            raise RuntimeError("OPENAI_API_KEY is not set in the environment.")
+        _openai_client = OpenAI(api_key=key)
+    return _openai_client
+    
 # Set by app.py
 MENU_TOOLS = None
 CATALOG_DIGEST = ""
