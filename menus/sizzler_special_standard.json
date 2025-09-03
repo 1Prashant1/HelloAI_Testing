@@ -1,0 +1,30 @@
+{
+  "category": "Sizzler Special",
+  "items": [
+    {
+      "name": "Sizzler Special",
+      "description": "Flamed grilled peri chicken mixed with peppers and onions tossed with chips and served with salad",
+      "price": "10.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Sizzler Special",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Sizzler Special"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

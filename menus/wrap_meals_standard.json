@@ -1,0 +1,441 @@
+{
+  "category": "Wrap Meals",
+  "items": [
+    {
+      "name": "Filet O Fire Wrap Meal",
+      "description": "Hot and crispy chicken fillet breaded in Chester's special Zinger breading with lettuce and mayonnaise. Includes fries and a drink",
+      "price": "9.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Spice Level",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Mango and Lime",
+                  "Lemon and Herb",
+                  "Mild",
+                  "Medium",
+                  "Garlic Peri Peri",
+                  "Hot",
+                  "Extra Hot"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Peri Grilled Wrap Meal",
+      "description": "",
+      "price": "8.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Spice Level",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Mango and Lime",
+                  "Lemon and Herb",
+                  "Mild",
+                  "Medium",
+                  "Garlic Peri Peri",
+                  "Hot",
+                  "Extra Hot"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Wrap Meal",
+      "description": "Regular fries and drink",
+      "price": "8.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Grilled Filet O Fire Wrap Meal",
+      "description": "Grilled spicy chicken fillet breaded in Chester's special Zinger breading with lettuce and mayonnaise. Includes fries and a drink",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Tex-Mex Wrap Meal",
+      "description": "Chicken wrap with jalapenos, mayonnaise, lettuce, mexican cheese and BBQ Sauce. Includes fries and a drink",
+      "price": "9.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Supreme Wrap Meal",
+      "description": "Chicken wrap with hash brown, mayonnaise, cheese, lettuce and burger sauce. Includes fries and a drink",
+      "price": "9.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Ringer Wrap Meal",
+      "description": "Chicken wrap with onion rings, mayonnaise, mexican cheese, lettuce and BBQ Sauce. Includes fries and a drink",
+      "price": "9.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Veggie Wrap Meal",
+      "description": "(Vegetarian) Regular fries and drink",
+      "price": "6.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

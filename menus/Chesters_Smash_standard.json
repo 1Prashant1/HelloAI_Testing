@@ -1,0 +1,225 @@
+{
+  "category": "Chesters Smash",
+  "items": [
+    {
+      "name": "Beef Smash",
+      "description": "A choice of two 100% freshly ground Angus beef patties or two spicy chicken patties, lettuce, tomatoes, tangy gherkins, fried onions, double cheese and a blend of our signature sauces inside a premium bun.",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Smash",
+      "description": "Two spicy chicken patties, lettuce, tomatoes, tangy gherkins, fried onions, double cheese and a blend of our signature sauces inside a premium bun.",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "BBQ Smash",
+      "description": "Two 100% freshly ground Angus beef patties with turkey rashers, lettuce, tomatoes, tangy gherkins, fried onions, crispy onions, cheddar cheese and a blend of our signature sauces and BBQ Sauce inside a premium bun.",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sizzler Smash",
+      "description": "Two 100% freshly ground Angus beef patties with lettuce, tomatoes, tangy gherkins, fried onions, crispy onions, cheddar cheese, green chillies and a blend of our signature sauces inside a premium bun.",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

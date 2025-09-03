@@ -1,0 +1,517 @@
+{
+  "category": "Peri Peri Platters",
+  "items": [
+    {
+      "name": "Jumbo Meal",
+      "description": "2x full peri chickens, 8pcs grilled wings, 4 chips, 2x coleslaw, and 4 drinks",
+      "price": "33.99",
+      "options": [
+        {
+          "title": "Peri Sauce (Choose for 2 chickens)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 3)",
+          "required": true,
+          "choose": 3,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Sides (Choose 2)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Coleslaw" },
+            { "name": "Chips" },
+            { "name": "Rice" },
+            { "name": "Green Salad" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 4 chips)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 4)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duo Meal",
+      "description": "Full peri chicken, 2 chips, coleslaw, and 2 drinks",
+      "price": "20.99",
+      "options": [
+        {
+          "title": "Peri Chicken",
+          "required": true,
+          "choose": 1,
+          "choices": [ { "name": "Full Peri Chicken" } ]
+        },
+        {
+          "title": "Peri Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 3)",
+          "required": true,
+          "choose": 3,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 2 chips)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 2)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duo Platter",
+      "description": "2x quarter chicken, 6pcs grilled wings, 2 chips, coleslaw, and 2 drinks",
+      "price": "20.99",
+      "options": [
+        {
+          "title": "Chicken 1",
+          "required": true,
+          "choose": 1,
+          "choices": [ { "name": "Quarter Chicken" } ]
+        },
+        {
+          "title": "Chicken 1 Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Chicken 2",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Quarter Chicken" },
+            { "name": "5pcs Grilled Wings" }
+          ]
+        },
+        {
+          "title": "Chicken 2 Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 3)",
+          "required": true,
+          "choose": 3,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 2 chips)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 2)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Duo Wings Meal",
+      "description": "10pcs grilled wings, 2 chips, 2 coleslaws, and 2 drinks",
+      "price": "15.99",
+      "options": [
+        {
+          "title": "Main Item",
+          "required": true,
+          "choose": 1,
+          "choices": [ { "name": "10pcs Grilled Wings" } ]
+        },
+        {
+          "title": "Main Item Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 3)",
+          "required": true,
+          "choose": 3,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 2 chips)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 2)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wholesome Meal",
+      "description": "Full chicken, 2 chips, coleslaw, and green salad",
+      "price": "20.99",
+      "options": [
+        {
+          "title": "Main Item",
+          "required": true,
+          "choose": 1,
+          "choices": [ { "name": "Full Chicken" } ]
+        },
+        {
+          "title": "Main Item Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 3)",
+          "required": true,
+          "choose": 3,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 2 chips)",
+          "required": true,
+          "choose": 2,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jumbo Wings Meal",
+      "description": "20pcs grilled wings, 4 chips, 2 coleslaw, green salad, and 4 drinks",
+      "price": "25.99",
+      "options": [
+        {
+          "title": "Main Item",
+          "required": true,
+          "choose": 1,
+          "choices": [ { "name": "20pcs Grilled Wings" } ]
+        },
+        {
+          "title": "Main Item Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 4)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 4 chips)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 4)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quattro Platter",
+      "description": "4x quarter chicken, 12pcs grilled wings, 4 chips, 2 coleslaw, and 4 drinks",
+      "price": "32.99",
+      "options": [
+        {
+          "title": "Overall Sauce",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            { "name": "Mango & Lime" },
+            { "name": "Lemon & Herb" },
+            { "name": "Mild" },
+            { "name": "Medium" },
+            { "name": "Garlic Peri Peri" },
+            { "name": "Hot" },
+            { "name": "Extra Hot" }
+          ]
+        },
+        {
+          "title": "Dips (Choose 4)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "Lemon And Herb Dip" },
+            { "name": "Garlic Peri Peri Dip" },
+            { "name": "Hot Dip" },
+            { "name": "Extra Hot Dip" },
+            { "name": "No Dip" }
+          ]
+        },
+        {
+          "title": "Salt (Choose for 4 chips)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "Peri Peri Salt" },
+            { "name": "Mexican Salt" },
+            { "name": "Nacho Cheese Salt" },
+            { "name": "BBQ Salt" },
+            { "name": "Regular Salt (Sachet)" },
+            { "name": "No Salt" }
+          ]
+        },
+        {
+          "title": "Drinks (Choose 4)",
+          "required": true,
+          "choose": 4,
+          "choices": [
+            { "name": "330ml Pepsi Can" },
+            { "name": "330ml Pepsi Light Can" },
+            { "name": "330ml Pepsi Max Can" },
+            { "name": "330ml Strawberry Mirinda Can" },
+            { "name": "330ml Orange Mirinda Can" },
+            { "name": "330ml Tango Apple Can" },
+            { "name": "330ml Tango Dark Berry Can" },
+            { "name": "330ml Tango Mango Can" },
+            { "name": "330ml Dr Pepper Can" },
+            { "name": "330ml 7UP Can" },
+            { "name": "330ml Barr Cola Can" },
+            { "name": "330ml Capri Sun Can" },
+            { "name": "250ml Umdah Mango Juice" },
+            { "name": "500ml Bottle Of Water" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "category": "Chester Meals",
+  "items": [
+    {
+      "name": "Boneless Meal",
+      "description": "2 dips, Regular fries",
+      "price": "",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mini Variety Meal",
+      "description": "2 dips, Regular fries",
+      "price": "",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Party Bucket",
+      "description": "8 or 12 chicken, 4 regular fries, 8pcs spicy wings, 1.5 litre drink, 4 salt",
+      "price": "23.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Chicken Portion",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  {
+                    "name": "8pcs Chicken & 8pcs Spicy Wings",
+                    "price": "0.00"
+                  },
+                  {
+                    "name": "12pcs Chicken & 8pcs Spicy Wings",
+                    "price": "5.00"
+                  }
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "1.5ltr Pepsi Bottle",
+                  "1.5ltr 7UP Bottle",
+                  "1.5ltr Tango Orange Bottle",
+                  "1.5ltr Diet Pepsi Bottle"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Family Mini Mix",
+      "description": "4pcs chicken, 2x fillet burgers, 4pcs spicy wings, 2pcs strips, 2 regular fries, 2 salt",
+      "price": "16.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Variety Pack",
+      "description": "12pcs spicy wings, 8pcs fillet strips, Popcorn chicken, 3 regular fries, 3 dips, 3 salt",
+      "price": "20.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      },
+      "addons": [
+        {
+          "category": "Dip",
+          "required": true,
+          "choose": 3,
+          "options": [
+            "Lemon And Herb Dip",
+            "Garlic Peri Peri Dip",
+            "Hot Dip",
+            "Extra Hot Dip",
+            "No Dip"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mini Bucket",
+      "description": "6pcs chicken, 4pcs spicy wings, 2x regular fries, 2 salt",
+      "price": "16.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ultimate Family Meal",
+      "description": "6pcs chicken, 3x regular fries, 12\" pizza with 3 toppings, Coleslaw, 8pcs spicy wings, 6pcs chicken strips, 1.5L bottle drink, 3 salt, 4 toppings",
+      "price": "26.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Pizza Base",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Tomato",
+                  "BBQ",
+                  "Chilli",
+                  "Garlic"
+                ]
+              },
+              {
+                "category": "Pizza Crust",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  {
+                    "name": "Classic Crust",
+                    "price": "0.00"
+                  },
+                  {
+                    "name": "Deep Pan",
+                    "price": "1.49"
+                  },
+                  {
+                    "name": "Stuffed Crust",
+                    "price": "2.49"
+                  }
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "1.5ltr Pepsi Bottle",
+                  "1.5ltr 7UP Bottle",
+                  "1.5ltr Tango Orange Bottle",
+                  "1.5ltr Diet Pepsi Bottle"
+                ]
+              },
+              {
+                "category": "Pizza Toppings",
+                "required": true,
+                "choose": 3,
+                "options": [
+                  "Onion",
+                  "Mushroom",
+                  "Sweetcorn",
+                  "Olives",
+                  "Jalapenos",
+                  "Green Chillies",
+                  "Peppers",
+                  "Tomato",
+                  "Pineapple",
+                  "Spicy Beef",
+                  "Turkey Ham",
+                  "Pepperoni",
+                  "Tuna",
+                  "Salami",
+                  "Plain Chicken",
+                  "Chinese Chicken",
+                  "Tandoori Chicken",
+                  "Anchovies",
+                  "Prawns",
+                  "Extra Cheese"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bucket Deal One",
+      "description": "10pcs of chicken, 4x regular fries, 4 salt",
+      "price": "18.49",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bucket Deal Two",
+      "description": "16pcs of chicken, 6x regular fries, 6 salt",
+      "price": "25.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bucket Deal Three",
+      "description": "20pcs of chicken, 8x regular fries, 8 salt",
+      "price": "29.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    }
+  ]
+}

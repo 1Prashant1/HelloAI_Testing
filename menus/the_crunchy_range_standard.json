@@ -1,0 +1,280 @@
+{
+  "category": "The CRUNCHY Range Crunchy Original Sandwich",
+  "items": [
+    {
+      "name": "On It's Own Crunchy Original Sandwich",
+      "description": "Crispy chicken tenders, cheese, lettuce and our signature sauce in a brioche bun",
+      "price": "6.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crunchy Wrap",
+      "description": "Crispy tenders, cheese, lettuce, our signature sauce and a choice of Chesters flavour in a warm tortilla wrap",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crunchy Jalapeno Sandwich",
+      "description": "Crispy chicken tenders, Jalapeno poppers, cheese, lettuce and our signature sauce in a brioche bun",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "5 Crunchy Tenders",
+      "description": "Hand-breaded crispy tenders with a choice of 3 Chesters Sauces",
+      "price": "8.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "3 Crunchy Tenders",
+      "description": "Hand-breaded crispy tenders with a choice of 2 Chesters Sauces",
+      "price": "5.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

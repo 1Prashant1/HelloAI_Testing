@@ -1,0 +1,85 @@
+{
+  "category": "Beverages",
+  "items": [
+    {
+      "name": "Cans",
+      "description": "",
+      "price": "1.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Choose Drink",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Drink Choice",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi",
+                  "330ml Pepsi Light",
+                  "330ml Pepsi Max",
+                  "330ml Strawberry Mirinda",
+                  "330ml Orange Mirinda",
+                  "330ml Tango Apple",
+                  "330ml Tango Mango",
+                  "330ml Tango Dark Berry",
+                  "330ml Dr Pepper",
+                  "330ml 7UP",
+                  "330ml Barr Cola",
+                  "330ml Capri Sun",
+                  "250ml Umdah Mango Juice"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "1.5Ltr Bottle",
+      "description": "",
+      "price": "3.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Choose Drink",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Drink Choice",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Pepsi",
+                  "7UP",
+                  "Tango Orange",
+                  "Diet Pepsi"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "500ml Bottle Of Water",
+      "description": "",
+      "price": "1.99",
+      "meal_options": {
+        "required": false,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    }
+  ]
+}

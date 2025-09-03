@@ -1,0 +1,71 @@
+{
+  "category": "Spicy Dip Burger",
+  "items": [
+    {
+      "name": "Nashville Hot Dip Burger",
+      "description": "New. Marinated, breaded and dipped in our new Nashville Hot sauce and served in a brioche bun with fresh lettuce and gherkins. Make it a meal with curly fries and a drink of your choice.",
+      "price": "7.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nashville Hot Dip Burger Meal",
+      "description": "New. Marinated, breaded and dipped in our new Nashville Hot sauce and served in a brioche bun with fresh lettuce and gherkins. Make it a meal with curly fries and a drink of your choice.",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

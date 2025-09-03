@@ -1,0 +1,306 @@
+{
+  "category": "Burgers",
+  "items": [
+    {
+      "name": "Original Fillet Burger",
+      "description": "Tender and juicy chicken fillet with mayo and lettuce in a seeded bun",
+      "price": "4.29",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "addons": [
+        {
+          "category": "Please Select",
+          "required": false,
+          "choose": 1,
+          "options": [
+            {
+              "name": "Additional Fillet in Burger",
+              "price": "1.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Filet O Fire Burger",
+      "description": "Hot and crispy chicken fillet breaded in Chester's special Zinger breading",
+      "price": "4.79",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          },
+          {
+            "name": "Make It A Meal",
+            "price": "3.00",
+            "addons": [
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "addons": [
+        {
+          "category": "Please Select",
+          "required": false,
+          "choose": 1,
+          "options": [
+            {
+              "name": "Additional Fillet in Burger",
+              "price": "1.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Ringer Burger",
+      "description": "Tender and juicy chicken fillet with 2 golden onion rings, Mexican cheese, Mayo, BBQ sauce and lettuce in a seeded bun",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Supreme Burger",
+      "description": "Tender and juicy chicken fillet with hash brown, cheese, mayo and lettuce in a seeded bun",
+      "price": "6.59",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Strip Burger",
+      "description": "Tender and juicy chicken strip burger",
+      "price": "4.29",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mega Mix Burger",
+      "description": "Tender and juicy fillet with 2 strips, cheese, mayo and lettuce in a seeded bun",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Rancher Burger",
+      "description": "100% chicken breast fillet, BBQ sauce, mayo, crispy lettuce, Mexican cheese and nachos",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Tex Mex Burger",
+      "description": "Chicken fillet with jalapenos, Mexican cheese, mayo, BBQ sauce and lettuce",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "The Hawaiian Burger",
+      "description": "Chicken breast fillet, pineapple, turkey rashers, cheese, lettuce, and mayonnaise",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fish Burger",
+      "description": "Crispy fish fillet in a soft bun",
+      "price": "4.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Classic Steak Burger",
+      "description": "Classic grilled steak patty in a bun",
+      "price": "4.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Veggie Burger",
+      "description": "Vegetarian",
+      "price": "4.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bean Burger",
+      "description": "Spiced bean patty in a soft bun",
+      "price": "4.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    }
+  ]
+}

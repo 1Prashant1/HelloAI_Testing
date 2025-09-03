@@ -1,0 +1,65 @@
+{
+  "category": "Wings Of Fire",
+  "items": [
+    {
+      "name": "4pcs wings",
+      "description": "Crispy chicken wings marinated in our signature zinger breading",
+      "price": "8.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "6pcs wings",
+      "description": "Crispy chicken wings marinated in our signature zinger breading",
+      "price": "10.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "10pcs wings",
+      "description": "Crispy chicken wings marinated in our signature zinger breading",
+      "price": "12.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    },
+    {
+      "name": "12pcs wings",
+      "description": "Crispy chicken wings marinated in our signature zinger breading",
+      "price": "14.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "On Its Own",
+            "price": "0.00"
+          }
+        ]
+      }
+    }
+  ]
+}

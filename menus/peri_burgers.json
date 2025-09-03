@@ -1,0 +1,887 @@
+{
+  "category": "PERI BURGERS",
+  "items": [
+    {
+      "name": "Filet of Fire Grilled",
+      "description": "Grilled spicy chicken fillet breaded in Chester's special Zinger breading",
+      "price": 8.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quarter Lb Cheese Burger",
+      "description": "",
+      "price": 6.99,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peri Chicken Burger",
+      "description": "",
+      "price": 5.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Tex Mex Grilled",
+      "description": "Tender and juicy grilled chicken fillet with jalapenos, Mexican cheese, Mayo, BBQ sauce",
+      "price": 7.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Rancher Grilled",
+      "description": "Comes with 100% chicken breast fillet, BBQ sauce, mayonnaise, and crispy lettuce",
+      "price": 7.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Half Lb Cheese Burger",
+      "description": "",
+      "price": 8.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Combo Burger",
+      "description": "Freshly grilled chicken fillet and a juicy beef patty with cheese, mayo, tomatoes, lettuce",
+      "price": 8.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Hawaiian Grilled",
+      "description": "Fresh 100% grilled chicken breast fillet, juicy pineapple, turkey rashers, cheese",
+      "price": 7.49,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Double Peri Chicken Burger",
+      "description": "",
+      "price": 8.99,
+      "options": [
+        {
+          "title": "Please select",
+          "required": true,
+          "choose": 1,
+          "choices": [
+            {
+              "name": "On It's Own",
+              "price": 0.0
+            },
+            {
+              "name": "Make It A Meal",
+              "price": 2.0,
+              "sub_options": [
+                {
+                  "title": "Please Select Salt",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "Peri Peri Salt"
+                    },
+                    {
+                      "name": "Mexican Salt"
+                    },
+                    {
+                      "name": "Nacho Cheese Salt"
+                    },
+                    {
+                      "name": "BBQ Salt"
+                    },
+                    {
+                      "name": "Regular Salt (Sachet)"
+                    },
+                    {
+                      "name": "No Salt"
+                    }
+                  ]
+                },
+                {
+                  "title": "Please select Drink",
+                  "required": true,
+                  "choose": 1,
+                  "choices": [
+                    {
+                      "name": "330ml Pepsi Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Light Can"
+                    },
+                    {
+                      "name": "330ml Pepsi Max Can"
+                    },
+                    {
+                      "name": "330ml Strawberry Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Orange Mirinda Can"
+                    },
+                    {
+                      "name": "330ml Tango Apple Can"
+                    },
+                    {
+                      "name": "330ml Tango Dark Berry Can"
+                    },
+                    {
+                      "name": "330ml Tango Mango Can"
+                    },
+                    {
+                      "name": "330ml Dr Pepper Can"
+                    },
+                    {
+                      "name": "330ml 7UP Can"
+                    },
+                    {
+                      "name": "330ml Barr Cola Can"
+                    },
+                    {
+                      "name": "330ml Capri Sun Can"
+                    },
+                    {
+                      "name": "250ml Umdah Mango Juice"
+                    },
+                    {
+                      "name": "500ml Bottle Of Water"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "category": "Individual Meals",
+  "items": [
+    {
+      "name": "Spicy Wings Meal",
+      "description": "6pcs spicy wings, regular fries, and drink",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "6pcs Spicy Wings, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Value Meal",
+      "description": "2 or 3 pieces chicken, 3pcs spicy wings, regular fries, and drink",
+      "price": "8.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  {
+                    "name": "2pcs Chicken",
+                    "price": "0.00"
+                  },
+                  {
+                    "name": "3pcs Chicken",
+                    "price": "0.50"
+                  }
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "3pcs Spicy Wings, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Combo Meal",
+      "description": "2 or 3 pieces chicken, regular fries, and with your choice of coleslaw, beans, or drink",
+      "price": "7.29",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please Select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  {
+                    "name": "2pcs Chicken",
+                    "price": "0.00"
+                  },
+                  {
+                    "name": "3pcs Chicken",
+                    "price": "1.00"
+                  }
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mini Mega Meal",
+      "description": "1pc chicken, 3pcs spicy wings, 1x fillet burger, 1 dip, regular fries, and drinks",
+      "price": "8.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "1pc Chicken, 3pcs Spicy Wings, 1x Fillet Burger"
+                ]
+              },
+              {
+                "category": "Please Select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Medium Peri Peri Dip",
+                  "Chilli Dip",
+                  "Mayonnaise Dip",
+                  "Ketchup Dip",
+                  "Burger Sauce Dip",
+                  "BBQ Dip",
+                  "No Dip"
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Popcorn Chicken Meal",
+      "description": "Portion of popcorn chicken, regular fries, and drink",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Portion Of Popcorn Chicken, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Nuggets Meal",
+      "description": "6pcs chicken nuggets, regular fries, and drink",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "6pcs Chicken Nuggets, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Super Deal 1",
+      "description": "2 Strip Burgers, 6 Spicy Wings, 2 Regular Fries and 2 Drinks",
+      "price": "11.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "2x Strip Burgers, 6pcs Spicy Wings & Regular Fries"
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Please select 2 Drinks",
+                "required": true,
+                "choose": 2,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Super Deal 2",
+      "description": "Chicken Fillet Burger, 6pcs Spicy Wings, 1pc Chicken, Regular Fries and a Drink",
+      "price": "11.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Chicken Fillet Burger, 6pcs Spicy Wings, 1pc Chicken, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Super Deal 3",
+      "description": "Portion of Popcorn Chicken, 6pcs Strips, 4pcs Fish Fingers, Regular Fries and Drink",
+      "price": "11.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Portion Of Popcorn Chicken, 6pcs Strips, 4pcs Fish Fingers"
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Choose 2 Dips",
+                "required": true,
+                "choose": 2,
+                "options": [
+                  "Medium Peri Peri Dip",
+                  "Chilli Dip",
+                  "Mayonnaise Dip",
+                  "Ketchup Dip",
+                  "Burger Sauce Dip",
+                  "BBQ Dip",
+                  "No Dip"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boneless Meal",
+      "description": "4pcs chicken strips, 6pcs popcorn chicken, regular fries, drinks, and 2 dips",
+      "price": "8.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "4pcs Chicken Strips, 6pcs Popcorn Chicken"
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Choose 2 Dips",
+                "required": true,
+                "choose": 2,
+                "options": [
+                  "Medium Peri Peri Dip",
+                  "Chilli Dip",
+                  "Mayonnaise Dip",
+                  "Ketchup Dip",
+                  "Burger Sauce Dip",
+                  "BBQ Dip",
+                  "No Dip"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Chicken Strips Meal",
+      "description": "4pcs chicken strips, regular fries, and drink",
+      "price": "7.49",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "4pcs Chicken Strips, Regular Fries"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mini Variety Meal",
+      "description": "2pcs chicken strips, 4pcs spicy wings, 8pcs popcorn chicken, 2x dips, regular fries, and drinks",
+      "price": "9.99",
+      "meal_options": {
+        "required": true,
+        "choose": 1,
+        "choices": [
+          {
+            "name": "Make It A Meal",
+            "price": "0.00",
+            "addons": [
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "2pcs Chicken Strips, 4pcs Spicy Wings, 8pcs Popcorn Chicken"
+                ]
+              },
+              {
+                "category": "Please select",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Regular Fries"
+                ]
+              },
+              {
+                "category": "Choose 2 Dips",
+                "required": true,
+                "choose": 2,
+                "options": [
+                  "Medium Peri Peri Dip",
+                  "Chilli Dip",
+                  "Mayonnaise Dip",
+                  "Ketchup Dip",
+                  "Burger Sauce Dip",
+                  "BBQ Dip",
+                  "No Dip"
+                ]
+              },
+              {
+                "category": "Drink",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "330ml Pepsi Can",
+                  "330ml Pepsi Light Can",
+                  "330ml Pepsi Max Can",
+                  "330ml Strawberry Mirinda Can",
+                  "330ml Orange Mirinda Can",
+                  "330ml Tango Apple Can",
+                  "330ml Tango Dark Berry Can",
+                  "330ml Tango Mango Can",
+                  "330ml Dr Pepper Can",
+                  "330ml 7UP Can",
+                  "330ml Barr Cola Can",
+                  "330ml Capri Sun Can",
+                  "250ml Umdah Mango Juice",
+                  "500ml Bottle Of Water"
+                ]
+              },
+              {
+                "category": "Salt",
+                "required": true,
+                "choose": 1,
+                "options": [
+                  "Peri Peri Salt",
+                  "Mexican Salt",
+                  "Nacho Cheese Salt",
+                  "BBQ Salt",
+                  "Regular Salt (Sachet)",
+                  "No Salt"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
